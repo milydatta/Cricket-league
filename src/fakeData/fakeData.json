@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "name": "Mashrafee Bin Murtaza",
+    "image": "https://ss.thgim.com/cricket/article27263506.ece/alternates/FREE_380/mashrafe-mortazajpg",
+    "salary": 3000
+  }, {
+    "id": 2,
+    "name": "Rubel Ahmed",
+    "image": "https://st3.cricketcountry.com/wp-content/uploads/cricket/20150301121956.jpeg",
+    "salary": 3000
+  }, {
+    "id": 3,
+    "name": "Musfiqur Rahim",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/491.png",
+    "salary": 3000
+  }, {
+    "id": 4,
+    "name": "Sakib Al Hasan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEoQyLXZ13J5_iolcxRLwLvdP5rUPM5hm4A&usqp=CAU",
+    "salary": 2000
+  }, {
+    "id": 5,
+    "name": "Nasir Hussain",
+    "image": "https://www.mediabangladesh.net/wp-content/uploads/2015/10/nasir-hossain.jpg",
+    "salary":2000
+  }, {
+    "id": 6,
+    "name": "Edgar elen",
+    "image": "https://i.pinimg.com/originals/9f/65/cc/9f65ccbf840716c05e7e853e578612d3.jpg",
+    "salary": 2000
+  }, {
+    "id": 7,
+    "name": "Tasqin Ahmed",
+    "image": "https://www.mediabangladesh.net/wp-content/uploads/2015/10/taskin-ahmed.jpg",
+    "salary": 1500
+  }, {
+    "id": 8,
+    "name": "Mustafigur Rahman",
+    "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mustafizur-Rahman-CWC19.ashx",
+    "salary": 1500
+  }, {
+    "id": 9,
+    "name": "Asraful",
+    "image": "https://biographybd.com/wp-content/uploads/2012/07/Ashraful2.jpg",
+    "salary": 1500
+  }, {
+    "id": 10,
+    "name": "Abdur Razzak",
+    "image": "https://cricket.yahoo.net/static-assets/waf-images/eb/a5/d4/16-9/388-218/c9c283916d18b5defe7cf4d185962620.jpeg",
+    "salary": 1500
+  }]

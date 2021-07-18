@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header">
-            <h1>Inter District Cricket Leage</h1>
+            <h1>Inter District Cricket League</h1>
         </div>
     );
 };

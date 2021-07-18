@@ -35,7 +35,7 @@
     "salary": 1500
   }, {
     "id": 8,
-    "name": "Mustafigur Rahman",
+    "name": "Mustafizur Rahman",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mustafizur-Rahman-CWC19.ashx",
     "salary": 1500
   }, {
@@ -48,4 +48,10 @@
     "name": "Abdur Razzak",
     "image": "https://cricket.yahoo.net/static-assets/waf-images/eb/a5/d4/16-9/388-218/c9c283916d18b5defe7cf4d185962620.jpeg",
     "salary": 1500
-  }]
+  },{
+    "id":11,
+    "name": "Al Amin",
+    "image": "https://cricket.yahoo.net/static-assets/waf-images/eb/a5/d4/16-9/388-218/c9c283916d18b5defe7cf4d185962620.jpeg",
+    "salary":1500
+  }
+]
